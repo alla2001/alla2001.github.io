@@ -94,8 +94,17 @@
         </section>
 
         <section class="skills">
-
+            
             <h1>skills :</h1>
+            <div class="tyu">
+
+            </div>
+            <div class="tyu1">
+
+            </div>
+            <div class="tyu2">
+
+            </div>
             <div>
                 <ul>
                     <li>
