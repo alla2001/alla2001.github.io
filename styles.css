@@ -336,6 +336,13 @@ justify-content: space-around;
   background-size: cover;
   background-image: url(logo/maxresdefault.jpg);
 }
+.rr2 {
+  height: 300px;
+  width: 900px;
+  background-size: contain;
+  background-image: url(logo/chrome_iAAjdT1oiy.png);
+}
+
 
 .ty {
   font-size: 1.2em;
